@@ -19,7 +19,6 @@ final class BladePepiconsServiceProvider extends ServiceProvider
 
             $factory->add('pepicons', array_merge(['path' => __DIR__.'/../resources/svg'], $config));
         });
-
     }
 
     private function registerConfig(): void
@@ -39,5 +38,4 @@ final class BladePepiconsServiceProvider extends ServiceProvider
             ], 'blade-pepicons-config');
         }
     }
-
 }
