@@ -2,7 +2,16 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-pepicons/compare/1.2.0...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-pepicons/compare/1.3.0...HEAD)
+
+## [1.3.0](https://github.com/codeat3/blade-pepicons/compare/1.2.0...1.3.0) - 2023-02-27
+
+### What's Changed
+
+- synced with the latest tag [v1.2.7](https://github.com/CyCraft/pepicons/releases/tag/v1.2.7)
+- auto update + test updates by @swapnilsarwe in https://github.com/codeat3/blade-pepicons/pull/4
+
+**Full Changelog**: https://github.com/codeat3/blade-pepicons/compare/1.2.0...1.3.0
 
 ## [1.2.0](https://github.com/codeat3/blade-pepicons/compare/1.1.0...1.2.0) - 2023-02-18
 
